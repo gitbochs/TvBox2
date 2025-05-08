@@ -1,14 +1,31 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt",
-    "https://raw.githubusercontent.com/MemoryCollection/IPTV/blob/main/multicast.txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
-    "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt",
-    "https://raw.githubusercontent.com/PizazzGY/TV/refs/heads/master/output/user_result.txt",
+     "http://rihou.cc:567/gggg.nzk",
+     "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/main/output/user_result.txt",
+     "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
+    "https://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php",
     "https://live.zbds.top/tv/iptv6.txt",  
     "https://live.zbds.top/tv/iptv4.txt", 
-    "https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt",  
+    "http://live.nctv.top/xj.txt",  
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+    "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",   
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
+    "https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "http://xhztv.top/new.txt",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+    "http://home.jundie.top:81/Cat/tv/live.txt",
+    "https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
 ]
 
 url_blacklist = [
@@ -33,8 +50,8 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期", "url": "http://live.nctv.top/6688/huya.php?id=11282233", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "http://live.nctv.top/6688/huya.php?id=11342387", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "更新日期", "url": "http://live.nctv.top/huya.php?id=11342412", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": "http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2", "logo": "http://175.178.251.183:6689/LR.jpg"}
   ]
     }
 ]
