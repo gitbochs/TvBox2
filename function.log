@@ -1,6 +1,6 @@
-2025-06-21 16:33:07,897 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f7c6fed6b00>, 'Connection to rihou.cc timed out. (connect timeout=None)'))
-2025-06-21 16:33:09,554 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
-2025-06-21 16:33:09,637 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 爬取成功✅，包含频道分类: 更新日期, 广东频道, 大湾区频道, 央视频道, 卫视频道, 少儿频道, 影视频道
-2025-06-21 16:33:10,752 - ERROR - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt 爬取失败❌, Error: 404 Client Error: NOT FOUND for url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt
-2025-06-21 16:33:11,547 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
-2025-06-21 16:33:11,550 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
+2025-06-22 02:34:34,456 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0d90eaab00>, 'Connection to rihou.cc timed out. (connect timeout=None)'))
+2025-06-22 02:34:36,544 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
+2025-06-22 02:34:36,625 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 爬取成功✅，包含频道分类: 更新日期, 广东频道, 大湾区频道, 央视频道, 卫视频道, 少儿频道, 影视频道
+2025-06-22 02:34:38,085 - ERROR - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt 爬取失败❌, Error: 404 Client Error: NOT FOUND for url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt
+2025-06-22 02:34:39,362 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
+2025-06-22 02:34:39,365 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
