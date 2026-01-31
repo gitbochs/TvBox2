@@ -2,6 +2,10 @@
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {"sites":[
+{"key":"T4_douban_bak","name":"🏠T4聚合备份","type":4,"api":"http://67.216.219.230:16214/home?douban","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_tmdb_bak","name":"🏠T4聚合tmdb","type":4,"api":"http://67.216.219.230:16214/home/tmdb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_tmdb_d1","name":"🏠T4聚合tmdb调试","type":4,"api":"http://192.168.252.1:16214/home/tmdb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_imdb_d2","name":"🏠T4聚合imdb调试local","type":4,"api":"http://192.168.252.1:16214/home/imdb","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DouDou","name":"🍥┃豆瓣┃","type":3,"api":"csp_DouDou","searchable":0,"filterable":1,"changeable":1,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"}},
 {"key":"csp_YGP","name":"豆瓣┃预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"zxzj","name":"在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
